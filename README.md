@@ -1,2 +1,2 @@
 Preview:
-<img src="public/images/screenshot.jpeg">Nike AF1 landing page</img>
+<img src="public/images/screenshot.png">Nike AF1 landing page</img>
