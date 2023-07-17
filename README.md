@@ -4,5 +4,5 @@ Installing into your local machine:
 3. After that Run the command: npm install.
 4. After installation run the command: npm run dev (this will run the react app on a local server)
 
-Preview:
+<b> Preview: </b>
 <img src="public/images/screenshot.png">Nike AF1 landing page</img>
